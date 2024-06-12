@@ -5,3 +5,7 @@ autoinstall:
         hostname: dsk-ubuntu-ghs
         username: ghsilva
         password: "$6$y1mmtJ4OMYmyad/S$UO49nvdKKW23GAozH9uk.3Qg2nkJIE2YesbBZy.q6ebrqG0q8ftj9/EiSOGKq4C5ssL5h90wKQZ99BMwqJEFl1"
+    locale: en_US.UTF-8
+    keyboard:
+        layout: br
+    timezone: America/Sao_Paulo
