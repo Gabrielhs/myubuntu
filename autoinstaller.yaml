@@ -1,6 +1,8 @@
 #cloud-config
 autoinstall:
     version: 1
+    source:
+        id: ubuntu-desktop-minimal
     identity:
         hostname: dsk-ubuntu-ghs
         username: ghsilva
