@@ -33,5 +33,4 @@ autoinstall:
         - ansible
         - putty
         - nmap
-        - vagrant
         - zsh
