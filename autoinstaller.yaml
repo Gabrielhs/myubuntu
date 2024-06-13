@@ -20,3 +20,27 @@ autoinstall:
           classic: true
         - name: codium
           classic: true
+        - name: aws-cli
+          classic: true
+        - name: docker
+          classic: true
+        - name: go
+          channel: 1.18/stable
+          classic: true
+        - name: dbeaver-ce
+          classic: true
+        - name: 
+          classic: 
+        - name:
+          classic:
+        - name:
+          classic:
+        - name:
+          classic:
+    packages:
+        - openjdk-18-jre
+        - ansible
+        - putty
+        - nmap
+        - vagrant
+        - zsh
