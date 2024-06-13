@@ -30,6 +30,7 @@ autoinstall:
         - name: dbeaver-ce
           classic: true
     packages:
+        - openjdk-17-jre
         - ansible
         - putty
         - nmap
