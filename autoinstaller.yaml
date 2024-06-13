@@ -11,3 +11,12 @@ autoinstall:
     keyboard:
         layout: br
     timezone: America/Sao_Paulo
+    snaps:
+        - name: kubectl
+          classic: true
+        - name: terraform
+          classic: true
+        - name: chromium
+          classic: true
+        - name: codium
+          classic: true
