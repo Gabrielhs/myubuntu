@@ -33,6 +33,8 @@ autoinstall:
           classic: true
         - name: intellij-idea-community
           classic: true
+        - name: spotify
+          classic: true
     packages:
         - openjdk-17-jre
         - ansible
