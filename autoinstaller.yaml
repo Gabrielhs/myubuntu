@@ -24,8 +24,6 @@ autoinstall:
           classic: true
         - name: aws-cli
           classic: true
-        - name: docker
-          classic: true
         - name: go
           channel: 1.18/stable
           classic: true
