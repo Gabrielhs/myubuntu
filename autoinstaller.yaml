@@ -18,8 +18,6 @@ autoinstall:
           classic: true
         - name: terraform
           classic: true
-        - name: chromium
-          classic: true
         - name: codium
           classic: true
         - name: aws-cli
