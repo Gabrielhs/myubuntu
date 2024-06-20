@@ -1,2 +1,5 @@
 # myubuntu
-Unattended Ubuntu Installation
+Para criar sua propria senha use o comando mkpasswd do pacote whois
+
+sudo apt install whois
+mkpasswd yourpasswordhere -m SHA-512
