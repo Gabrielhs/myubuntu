@@ -38,3 +38,4 @@ autoinstall:
         - nmap
         - zsh
         - git
+        - build-essential
