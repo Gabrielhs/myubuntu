@@ -33,6 +33,8 @@ autoinstall:
           classic: true
         - name: remmina
           classic: true
+        - name: opentofu
+          classic: true
     packages:
         - openjdk-17-jre
         - ansible
