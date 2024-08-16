@@ -43,3 +43,4 @@ autoinstall:
         - zsh
         - git
         - build-essential
+        - docker.io
